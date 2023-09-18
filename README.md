@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksyaren&label=Profile%20views&color=0e75b6&style=flat" alt="ksyaren" /> </p>
 
-- 🔭 I’m currently working on [developing a website](https://github.com/ksyaren/itsmevsyellow)
+- 🔭 I’m currently working on [a website](https://github.com/ksyaren/itsmevsyellow)
 
 - 🌱 I’m currently learning **C#, HTML and CSS**
 
