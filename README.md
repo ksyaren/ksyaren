@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [a website](https://github.com/ksyaren/itsmevsyellow)
 
-- 🌱 I’m currently learning **C#, HTML and CSS**
-
 - 📫 You can reach me anytime **yaren.kose.tr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
