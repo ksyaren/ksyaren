@@ -40,6 +40,12 @@ As a passionate Computer Engineering student from Turkey, I'm on an exciting jou
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksyaren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksyaren&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ksyaren&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ksyaren&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</div>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ksyaren&color=blueviolet"/>
 </div>
 
 ## 🌍 Connect with Me
